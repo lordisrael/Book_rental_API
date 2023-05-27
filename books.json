@@ -1,0 +1,324 @@
+[
+      {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publication_year": 1960,
+        "genre": "Fiction",
+        "isbn": "9780061120084"
+      },
+      {
+        "id": 2,
+        "title": "Nineteen Eighty Four",
+        "author": "George Orwell",
+        "publication_year": 1949,
+        "genre": "Fiction",
+        "isbn": "9780451524935"
+      },
+      {
+        "id": 3,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publication_year": 1925,
+        "genre": "Fiction",
+        "isbn": "9780743273565"
+      },
+      {
+        "id": 4,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publication_year": 1813,
+        "genre": "Romance",
+        "isbn": "9780141439518"
+      },
+      {
+        "id": 5,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "publication_year": 1937,
+        "genre": "Fantasy",
+        "isbn": "9780618260300"
+      },
+      {
+        "id": 6,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "publication_year": 1951,
+        "genre": "Fiction",
+        "isbn": "9780316769174"
+      },
+      {
+        "id": 7,
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "publication_year": 1932,
+        "genre": "Fiction",
+        "isbn": "9780060850524"
+      },
+      {
+        "id": 8,
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "publication_year": 1851,
+        "genre": "Adventure",
+        "isbn": "9780142000083"
+      },
+      {
+        "id": 9,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "publication_year": 1954,
+        "genre": "Fantasy",
+        "isbn": "9780544003415"
+      },
+      {
+        "id": 10,
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "publication_year": 1847,
+        "genre": "Fiction",
+        "isbn": "9780141441146"
+      },
+      {
+        "id": 11,
+        "title": "The Chronicles of Narnia",
+        "author": "C.S. Lewis",
+        "publication_year": 1950,
+        "genre": "Fantasy",
+        "isbn": "9780064404990"
+      },
+      {
+        "id": 12,
+        "title": "Fahrenheit ",
+        "author": "Ray Bradbury",
+        "publication_year": 1953,
+        "genre": "Fiction",
+        "isbn": "9781451673319"
+      },
+      {
+        "id": 13,
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "publication_year": 1890,
+        "genre": "Fiction",
+        "isbn": "9780141439570"
+      },
+      {
+        "id": 14,
+        "title": "Gone with the Wind",
+        "author": "Margaret Mitchell",
+        "publication_year": 1936,
+        "genre": "Fiction",
+        "isbn": "9780446675536"
+      },
+      {
+        "id": 15,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "publication_year": 1988,
+        "genre": "Fiction",
+        "isbn": "9780061122415"
+      },
+      {
+        "id": 16,
+        "title": "The Adventures of Tom Sawyer",
+        "author": "Mark Twain",
+        "publication_year": 1876,
+        "genre": "Adventure",
+        "isbn": "9780143039563"
+      },
+      {
+        "id": 17,
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "publication_year": 1943,
+        "genre": "Children",
+        "isbn": "9780156012195"
+      },
+      {
+        "id": 18,
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "publication_year": 1945,
+        "genre": "Fiction",
+        "isbn": "9780451526342"
+      },
+      {
+        "id": 19,
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "publication_year": 1847,
+        "genre": "Fiction",
+        "isbn": "9780141439556"
+      },
+      {
+        "id": 20,
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "publication_year": 1844,
+        "genre": "Adventure",
+        "isbn": "9780140449266"
+      },
+      {
+        "id": 21,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "publication_year": 1997,
+        "genre": "Fantasy",
+        "isbn": "9780590353427"
+      },
+      {
+        "id": 22,
+        "title": "The Odyssey",
+        "author": "Homer",
+        "publication_year": -800,
+        "genre": "Epic",
+        "isbn": "9780140268867"
+      },
+      {
+        "id": 23,
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "publication_year": 2003,
+        "genre": "Fiction",
+        "isbn": "9781594480003"
+      },
+      {
+        "id": 24,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "publication_year": 1866,
+        "genre": "Fiction",
+        "isbn": "9780679734505"
+      },
+      {
+        "id": 25,
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "publication_year": 2005,
+        "genre": "Fiction",
+        "isbn": "9780375842207"
+      },
+      {
+        "id": 26,
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "publication_year": 1862,
+        "genre": "Fiction",
+        "isbn": "9780140444308"
+      },
+      {
+        "id": 27,
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "publication_year": 1967,
+        "genre": "Mystery",
+        "isbn": "9780060883287"
+      },
+      {
+        "id": 28,
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne",
+        "publication_year": 1850,
+        "genre": "Romance",
+        "isbn": "9780486280486"
+      },
+      {
+        "id": 29,
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "publication_year": 2005,
+        "genre": "Mystery",
+        "isbn": "9780307949486"
+      },
+      {
+        "id": 30,
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "publication_year": 1884,
+        "genre": "Adventure",
+        "isbn": "9780142437179"
+      },
+      {
+        "id": 31,
+        "title": "The Shining",
+        "author": "Stephen King",
+        "publication_year": 1977,
+        "genre": "Horror",
+        "isbn": "9780307743657"
+      },
+      {
+        "id": 32,
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "publication_year": 2003,
+        "genre": "Thriller",
+        "isbn": "9780307474278"
+      },
+      {
+        "id": 33,
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "publication_year": 1939,
+        "genre": "Fiction",
+        "isbn": "9780143039433"
+      },
+      {
+        "id": 34,
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "publication_year": 1818,
+        "genre": "Fiction",
+        "isbn": "9780486282114"
+      },
+      {
+        "id": 35,
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "publication_year": 1911,
+        "genre": "Children",
+        "isbn": "9780064401883"
+      },
+      {
+        "id": 36,
+        "title": "The Sun Also Rises",
+        "author": "Ernest Hemingway",
+        "publication_year": 1926,
+        "genre": "Fiction",
+        "isbn": "9780684800714"
+      },
+      {
+        "id": 37,
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "publication_year": 1969,
+        "genre": "Fiction",
+        "isbn": "9780385333849"
+      },
+      {
+        "id": 38,
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "publication_year": 1859,
+        "genre": "Fiction",
+        "isbn": "9780141439600"
+      },
+      {
+        "id": 39,
+        "title": "The Lion, the Witch and the Wardrobe",
+        "author": "C.S. Lewis",
+        "publication_year": 1950,
+        "genre": "Fantasy",
+        "isbn": "9780064471046"
+      },
+      {
+        "id": 40,
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "publication_year": 2012,
+        "genre": "Romance",
+        "isbn": "9780142424179"
+      }
+]
+  
+  
